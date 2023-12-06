@@ -14,6 +14,8 @@ Er zijn twee functies:
 ## Output
 De png files staan in de map [09_output](https://github.com/mvbloois/verkiezingen/tree/main/tk2023/09_output).
 
+---
+
 ![top-6-partijen](09_output/top-6.png)
 
 
