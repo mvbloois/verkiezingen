@@ -11,6 +11,10 @@ Er zijn twee functies:
 - Om de files van de kieskringen in te lezen  
 - Om de file van de gemeente Rotterdam in te lezen  
 
+Het script load_data.R laadt alle data in het geheugen.
+
+`source("./tk2023/02_scripts/load_data.R`
+
 ## Output
 De png files staan in de map [09_output](https://github.com/mvbloois/verkiezingen/tree/main/tk2023/09_output).
 
